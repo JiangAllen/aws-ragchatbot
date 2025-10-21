@@ -70,6 +70,14 @@ python model_pipline.py
     ]
 }
 ```
-### Parameters
-#### user: The user's question
-#### bot: The AI's response
+- user: User question
+- bot: AI response
+
+## 📄 License
+### This software is provided for research and demonstration purposes only. Do not use this code in production environments.
+
+## Support
+For issues or questions:
+- Create an issue in the repository
+- Review your configuration settings
+- Contact me at: wwlwyovwkn83999@gmail.com
