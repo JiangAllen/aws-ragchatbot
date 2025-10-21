@@ -1,0 +1,337 @@
+[2024/07/17 - 09:36:08] final question = nvidia recent  stories from 2024-06-17, to: 2024-07-17
+[2024/07/17 - 09:36:08] search question = nvidia recent  stories
+[2024/07/17 - 09:36:09] no relevant news in specified (from ~ to) time. (!data)
+[2024/07/17 - 09:36:09] ask Claude3 to answer based on what it have already known start.
+[2024/07/17 - 09:36:26] final question = nvidia recent  performance financials
+[2024/07/17 - 09:36:26] search question = nvidia recent  performance financials
+[2024/07/17 - 09:36:28] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 09:36:28] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 10:03:01] final question = TSMC
+[2024/07/17 - 10:03:01] search question = TSMC
+[2024/07/17 - 10:03:02] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 10:03:02] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:13:34] final question = TSMC
+[2024/07/17 - 04:13:34] search question = TSMC
+[2024/07/17 - 04:13:35] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:13:35] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:36:36] final question = TSMC
+[2024/07/17 - 04:36:36] search question = TSMC
+[2024/07/17 - 04:36:37] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:36:37] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:40:03] final question = TSMC
+[2024/07/17 - 04:40:03] search question = TSMC
+[2024/07/17 - 04:40:05] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:40:05] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:41:37] final question = TSMC
+[2024/07/17 - 04:41:37] search question = TSMC
+[2024/07/17 - 04:41:38] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:41:38] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:45:40] final question = TSMC
+[2024/07/17 - 04:45:40] search question = TSMC
+[2024/07/17 - 04:45:41] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:45:41] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 04:53:05] final question = TSMC
+[2024/07/17 - 04:53:05] search question = TSMC
+[2024/07/17 - 04:53:07] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 04:53:07] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 05:41:33] final question = TSMC
+[2024/07/17 - 05:41:33] search question = TSMC
+[2024/07/17 - 05:41:35] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 05:41:35] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 05:53:09] final question = TSMC
+[2024/07/17 - 05:53:09] search question = TSMC
+[2024/07/17 - 05:53:10] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 05:53:10] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 05:56:13] final question = TSMC
+[2024/07/17 - 05:56:13] search question = TSMC
+[2024/07/17 - 05:56:14] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 05:56:14] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 06:12:24] final question = TSMC
+[2024/07/17 - 06:12:24] search question = TSMC
+[2024/07/17 - 06:12:26] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 06:12:26] ask Claude3 to answer based on relavent news start.
+[2024/07/17 - 06:13:33] final question = TSMC
+[2024/07/17 - 06:13:33] search question = TSMC
+[2024/07/17 - 06:13:34] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/17 - 06:13:34] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 12:23:54] final question = PS4 from: 2024-07-01, to: 2024-07-07
+[2024/07/18 - 12:23:54] search question = PS4
+[2024/07/18 - 12:23:55] no relevant news in specified (from ~ to) time. (!data)
+[2024/07/18 - 12:23:55] ask Claude3 to answer based on what it have already known start.
+[2024/07/18 - 12:29:59] final question = PS4 from: 2024-07-02, to: 2024-07-15
+[2024/07/18 - 12:29:59] search question = PS4
+[2024/07/18 - 12:30:01] no relevant news in specified (from ~ to) time. (!data)
+[2024/07/18 - 12:30:01] ask Claude3 to answer based on what it have already known start.
+[2024/07/18 - 09:54:10] final question = PS4 from: 2024-07-04, to: 2024-07-11
+[2024/07/18 - 09:54:10] search question = PS4
+[2024/07/18 - 09:54:12] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 09:54:12] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 09:54:17] final question = PS4 from: 2024-07-04, to: 2024-07-11
+[2024/07/18 - 09:54:17] search question = PS4
+[2024/07/18 - 09:54:17] filter news in specified (from ~ to) time' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 09:54:17] ask Claude3 to answer based on what it have already known start.
+[2024/07/18 - 10:32:25] final question = Soaring TWS
+[2024/07/18 - 10:32:25] search question = Soaring TWS
+[2024/07/18 - 10:32:27] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 10:32:27] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 10:34:18] final question = Soaring TWS earbuds
+[2024/07/18 - 10:34:18] search question = Soaring TWS earbuds
+[2024/07/18 - 10:34:20] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 10:34:20] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 10:34:26] final question = Soaring TWS
+[2024/07/18 - 10:34:26] search question = Soaring TWS
+[2024/07/18 - 10:34:26] filter news in past six months' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 10:34:26] back to filter news in past five years' relevant news.
+[2024/07/18 - 10:34:27] filter news in past five years' relevant news. (data & !unknown & guide)
+[2024/07/18 - 10:34:27] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 10:43:19] final question = Prosecutor
+[2024/07/18 - 10:43:19] search question = Prosecutor
+[2024/07/18 - 10:43:21] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 10:43:21] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 10:43:26] final question = Prosecutor
+[2024/07/18 - 10:43:26] search question = Prosecutor
+[2024/07/18 - 10:43:26] filter news in past six months' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 10:43:26] back to filter news in past five years' relevant news.
+[2024/07/18 - 10:43:28] filter news in past five years' relevant news. (data & !unknown & guide)
+[2024/07/18 - 10:43:28] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 10:43:35] final question = Prosecutor
+[2024/07/18 - 10:43:35] search question = Prosecutor
+[2024/07/18 - 10:43:35] filter news in past five years' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 10:43:35] ask Claude3 to answer based on what it have already known start.
+[2024/07/18 - 04:07:59] final question = TSMC
+[2024/07/18 - 04:07:59] search question = TSMC
+[2024/07/18 - 04:08:00] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 04:08:00] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:18:58] final question = TSMC
+[2024/07/18 - 04:18:58] search question = TSMC
+[2024/07/18 - 04:19:00] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 04:19:00] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:19:59] final question = nvidia from: 2024-04-18, to: 2024-07-18
+[2024/07/18 - 04:19:59] search question = nvidia
+[2024/07/18 - 04:20:01] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 04:20:01] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:21:33] final question = WWDC
+[2024/07/18 - 04:21:33] search question = WWDC
+[2024/07/18 - 04:21:34] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 04:21:34] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:22:40] final question = AI from: 2024-07-01, to: 2024-07-14
+[2024/07/18 - 04:22:40] search question = AI
+[2024/07/18 - 04:22:41] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 04:22:41] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:23:30] final question = TSMC AI from: 2024-07-01, to: 2024-07-14
+[2024/07/18 - 04:23:30] search question = TSMC AI
+[2024/07/18 - 04:23:31] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 04:23:31] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:27:14] final question = nvidia from 2024-06-12, to: 2024-06-12
+[2024/07/18 - 04:27:14] search question = nvidia
+[2024/07/18 - 04:27:15] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 04:27:15] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:31:44] final question = PS4
+[2024/07/18 - 04:31:44] search question = PS4
+[2024/07/18 - 04:31:45] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/18 - 04:31:45] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:31:51] final question = PS4
+[2024/07/18 - 04:31:51] search question = PS4
+[2024/07/18 - 04:31:51] filter news in past six months' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 04:31:51] back to filter news in past five years' relevant news.
+[2024/07/18 - 04:31:53] filter news in past five years' relevant news. (data & !unknown & guide)
+[2024/07/18 - 04:31:53] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:31:59] final question = PS4
+[2024/07/18 - 04:31:59] search question = PS4
+[2024/07/18 - 04:31:59] filter news in past five years' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 04:31:59] ask Claude3 to answer based on what it have already known start.
+[2024/07/18 - 04:34:26] final question = PS4 from: 2024-06-01, to: 2024-06-30
+[2024/07/18 - 04:35:04] final question = PS4  from: 2023-06-01, to: 2023-06-30
+[2024/07/18 - 04:35:04] search question = PS4
+[2024/07/18 - 04:35:05] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/18 - 04:35:05] ask Claude3 to answer based on relavent news start.
+[2024/07/18 - 04:35:14] final question = PS4 from: 2024-06-01, to: 2024-06-30
+[2024/07/18 - 04:35:14] search question = PS4
+[2024/07/18 - 04:35:14] filter news in specified (from ~ to) time' relevant news, but don't know answer. (data & unknown)
+[2024/07/18 - 04:35:14] ask Claude3 to answer based on what it have already known start.
+[2024/07/19 - 10:01:24] final question = nvidia from: 2024-03-19, to: 2024-03-31
+[2024/07/19 - 10:01:24] search question = nvidia
+[2024/07/19 - 10:01:26] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 10:01:26] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 10:45:37] final question = TSMC recent
+[2024/07/19 - 10:45:37] search question = TSMC recent
+[2024/07/19 - 10:45:38] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/19 - 10:45:38] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 10:45:54] final question = TSMC recent from: 2024-06-19, to: 2024-07-19
+[2024/07/19 - 10:45:54] search question = TSMC recent
+[2024/07/19 - 10:45:55] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 10:45:55] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 10:46:06] final question = Apple unveils software updates
+[2024/07/19 - 10:46:06] search question = Apple unveils software updates
+[2024/07/19 - 10:46:07] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/19 - 10:46:07] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 02:34:47] final question = today's nvidia from 2024-07-19, to: 2024-07-19
+[2024/07/19 - 02:34:47] search question = today's nvidia
+[2024/07/19 - 02:34:48] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 02:34:48] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 02:35:06] final question = nvidia from: 2024-07-19, to: 2024-07-19
+[2024/07/19 - 02:35:06] search question = nvidia
+[2024/07/19 - 02:35:08] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 02:35:08] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 02:35:12] final question = nvidia from 2024-07-19, to: 2024-07-19
+[2024/07/19 - 02:35:12] search question = nvidia
+[2024/07/19 - 02:35:12] filter news in specified (from ~ to) time' relevant news, but don't know answer. (data & unknown)
+[2024/07/19 - 02:35:12] ask Claude3 to answer based on what it have already known start.
+[2024/07/19 - 02:37:59] final question = nvidia from 2024-07-18, to: 2024-07-18
+[2024/07/19 - 02:37:59] search question = nvidia
+[2024/07/19 - 02:38:00] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 02:38:00] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 04:05:30] final question = Liquid cooling boom lures companies despite high entry barriers
+[2024/07/19 - 04:05:30] search question = Liquid cooling boom lures companies despite high entry barriers
+[2024/07/19 - 04:05:31] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/19 - 04:05:31] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 05:25:01] final question = WWDC from: 2024-05-01, to: 2024-05-31
+[2024/07/19 - 05:25:01] search question = WWDC
+[2024/07/19 - 05:25:02] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/19 - 05:25:02] ask Claude3 to answer based on relavent news start.
+[2024/07/19 - 05:25:09] final question = WWDC from: 2024-05-01, to: 2024-05-31
+[2024/07/19 - 05:25:09] search question = WWDC
+[2024/07/19 - 05:25:09] filter news in specified (from ~ to) time' relevant news, but don't know answer. (data & unknown)
+[2024/07/19 - 05:25:09] ask Claude3 to answer based on what it have already known start.
+[2024/07/22 - 15:53:32] final question = nvidia from: 2024-07-08, to: 2024-07-14
+[2024/07/22 - 15:53:32] search question = nvidia
+[2024/07/22 - 15:53:33] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/22 - 15:53:33] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 15:54:57] final question = AI NEWS TODAY from: 2024-07-22, to: 2024-07-22
+[2024/07/22 - 15:54:57] search question = AI NEWS TODAY
+[2024/07/22 - 15:54:58] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/22 - 15:54:58] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 15:58:21] final question = AI  TODAY
+[2024/07/22 - 15:58:21] search question = AI  TODAY
+[2024/07/22 - 15:58:23] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/22 - 15:58:23] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 15:58:29] final question = AI  from: 2024-07-22, to: 2024-07-22
+[2024/07/22 - 15:58:29] search question = AI
+[2024/07/22 - 15:58:30] no relevant news in specified (from ~ to) time. (!data)
+[2024/07/22 - 15:58:30] ask Claude3 to answer based on what it have already known start.
+[2024/07/22 - 16:01:29] final question = TSMC  from: 2024-07-08, to: 2024-07-14
+[2024/07/22 - 16:01:29] search question = TSMC
+[2024/07/22 - 16:01:30] no relevant news in specified (from ~ to) time. (!data)
+[2024/07/22 - 16:01:30] ask Claude3 to answer based on what it have already known start.
+[2024/07/22 - 16:02:19] final question = TSMC from: 2024-06-01, to: 2024-06-30
+[2024/07/22 - 16:02:19] search question = TSMC
+[2024/07/22 - 16:02:20] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/22 - 16:02:20] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 16:04:14] final question = iPadOS
+[2024/07/22 - 16:04:14] search question = iPadOS
+[2024/07/22 - 16:04:16] no relevant news in past six months. (!data)
+[2024/07/22 - 16:04:16] back to filter news in past five years' relevant news.
+[2024/07/22 - 16:04:17] no relevant news in past five years. (!data % guide)
+[2024/07/22 - 16:04:17] ask Claude3 to answer based on what it have already known start.
+[2024/07/22 - 16:05:02] final question = macOS
+[2024/07/22 - 16:05:02] search question = macOS
+[2024/07/22 - 16:05:03] no relevant news in past six months. (!data)
+[2024/07/22 - 16:05:03] back to filter news in past five years' relevant news.
+[2024/07/22 - 16:05:05] no relevant news in past five years. (!data % guide)
+[2024/07/22 - 16:05:05] ask Claude3 to answer based on what it have already known start.
+[2024/07/22 - 16:05:37] final question = iPhone
+[2024/07/22 - 16:05:37] search question = iPhone
+[2024/07/22 - 16:05:38] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/22 - 16:05:38] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 16:07:36] final question = mediatek from: 2023-01-01, to: 2023-12-31
+[2024/07/22 - 16:07:36] search question = mediatek
+[2024/07/22 - 16:07:38] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/22 - 16:07:38] ask Claude3 to answer based on relavent news start.
+[2024/07/22 - 16:12:34] final question = OSAT
+[2024/07/22 - 16:12:34] search question = OSAT
+[2024/07/22 - 16:12:36] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/22 - 16:12:36] ask Claude3 to answer based on relavent news start.
+[2024/07/23 - 11:46:44] final question = AI EXPO
+[2024/07/23 - 11:46:44] search question = AI EXPO
+[2024/07/23 - 11:46:46] filter news in past six months' relevant news. (data & !unknown)
+[2024/07/23 - 11:46:46] ask Claude3 to answer based on relavent news start.
+[2024/07/26 - 12:20:02] final question = today's import from 2024-07-26, to: 2024-07-26
+[2024/07/26 - 12:20:02] search question = today's import
+[2024/07/26 - 12:20:04] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/26 - 12:20:04] ask Claude3 to answer based on relavent news start.
+[2024/07/26 - 12:21:46] final question = AI from 2024-07-01, to: 2024-07-01
+[2024/07/26 - 12:21:46] search question = AI
+[2024/07/26 - 12:21:47] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/26 - 12:21:47] ask Claude3 to answer based on relavent news start.
+[2024/07/29 - 14:19:56] final question = nvidia from 2024-07-29, to: 2024-07-29
+[2024/07/29 - 14:19:56] search question = nvidia
+[2024/07/29 - 14:19:58] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/07/29 - 14:19:58] ask Claude3 to answer based on relavent news start.
+[2024/08/01 - 10:01:31] final question = ai from: 2024-07-25, to: 2024-07-31
+[2024/08/01 - 10:01:31] search question = ai
+[2024/08/01 - 10:01:32] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/08/01 - 10:01:32] ask Claude3 to answer based on relavent news start.
+[2024/08/01 - 10:03:44] final question = TSMC
+[2024/08/01 - 10:03:44] search question = TSMC
+[2024/08/01 - 10:03:46] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/01 - 10:03:46] ask Claude3 to answer based on relavent news start.
+[2024/08/01 - 10:05:29] final question = Jensen Huang's business strategy
+[2024/08/01 - 10:05:29] search question = Jensen Huang's business strategy
+[2024/08/01 - 10:05:30] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/01 - 10:05:30] ask Claude3 to answer based on relavent news start.
+[2024/08/01 - 10:06:55] final question = NVIDIA brand market share
+[2024/08/01 - 10:06:55] search question = NVIDIA brand market share
+[2024/08/01 - 10:06:57] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/01 - 10:06:57] ask Claude3 to answer based on relavent news start.
+[2024/08/04 - 18:45:28] final question = tsmc revenues from: 2024-06-01, to: 2024-06-30
+[2024/08/04 - 18:45:28] search question = tsmc revenues
+[2024/08/04 - 18:45:30] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/08/04 - 18:45:30] ask Claude3 to answer based on relavent news start.
+[2024/08/04 - 18:48:49] final question = tsmc revenue june 2024
+[2024/08/04 - 18:48:49] search question = tsmc revenue june 2024
+[2024/08/04 - 18:48:52] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/04 - 18:48:52] ask Claude3 to answer based on relavent news start.
+[2024/08/04 - 18:48:58] final question = tsmc revenue june 2024
+[2024/08/04 - 18:48:58] search question = tsmc revenue june 2024
+[2024/08/04 - 18:48:58] filter news in past six months' relevant news, but don't know answer. (data & unknown)
+[2024/08/04 - 18:48:58] back to filter news in past five years' relevant news.
+[2024/08/04 - 18:49:00] filter news in past five years' relevant news. (data & !unknown & guide)
+[2024/08/04 - 18:49:00] ask Claude3 to answer based on relavent news start.
+[2024/08/04 - 18:49:07] final question = tsmc revenue june 2024
+[2024/08/04 - 18:49:07] search question = tsmc revenue june 2024
+[2024/08/04 - 18:49:07] filter news in past five years' relevant news, but don't know answer. (data & unknown)
+[2024/08/04 - 18:49:07] ask Claude3 to answer based on what it have already known start.
+[2024/08/07 - 09:21:48] final question = Vision Pro
+[2024/08/07 - 09:21:48] search question = Vision Pro
+[2024/08/07 - 09:21:50] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/07 - 09:21:50] ask Claude3 to answer based on relavent news start.
+[2024/08/07 - 09:22:23] final question = nvidia vision pro
+[2024/08/07 - 09:22:23] search question = nvidia vision pro
+[2024/08/07 - 09:22:24] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/07 - 09:22:24] ask Claude3 to answer based on relavent news start.
+[2024/08/07 - 09:22:31] final question = nvidia vision pro headset
+[2024/08/07 - 09:22:31] search question = nvidia vision pro headset
+[2024/08/07 - 09:22:31] filter news in past six months' relevant news, but don't know answer. (data & unknown)
+[2024/08/07 - 09:22:31] back to filter news in past five years' relevant news.
+[2024/08/07 - 09:22:32] filter news in past five years' relevant news. (data & !unknown & guide)
+[2024/08/07 - 09:22:32] ask Claude3 to answer based on relavent news start.
+[2024/08/07 - 09:22:39] final question = nvidia vision pro headset
+[2024/08/07 - 09:22:39] search question = nvidia vision pro headset
+[2024/08/07 - 09:22:39] filter news in past five years' relevant news, but don't know answer. (data & unknown)
+[2024/08/07 - 09:22:39] ask Claude3 to answer based on what it have already known start.
+[2024/08/12 - 21:39:31] final question = nvidia from: 2024-08-05, to: 2024-08-11
+[2024/08/12 - 21:39:31] search question = nvidia
+[2024/08/12 - 21:42:01] final question = nvidia from: 2024-08-05, to: 2024-08-11
+[2024/08/12 - 21:42:01] search question = nvidia
+[2024/08/12 - 21:42:03] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/08/12 - 21:42:03] ask Claude3 to answer based on relavent news start.
+[2024/08/12 - 21:42:36] final question = nvidia from: 2024-08-05, to: 2024-08-11
+[2024/08/12 - 21:42:36] search question = nvidia
+[2024/08/12 - 21:42:37] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/08/12 - 21:42:37] ask Claude3 to answer based on relavent news start.
+[2024/08/12 - 21:43:05] final question = nvidia from: 2024-08-05, to: 2024-08-11
+[2024/08/12 - 21:43:05] search question = nvidia
+[2024/08/12 - 21:43:07] filter news in specified (from ~ to) time' relevant news. (data & !unknown)
+[2024/08/12 - 21:43:07] ask Claude3 to answer based on relavent news start.
+[2024/08/12 - 21:43:36] final question = nvidia
+[2024/08/12 - 21:43:36] search question = nvidia
+[2024/08/12 - 21:43:37] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/12 - 21:43:37] ask Claude3 to answer based on relavent news start.
+[2024/08/12 - 21:44:48] final question = TSMC
+[2024/08/12 - 21:44:48] search question = TSMC
+[2024/08/12 - 21:44:49] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/12 - 21:44:49] ask Claude3 to answer based on relavent news start.
+[2024/08/12 - 21:47:06] final question = TSMC
+[2024/08/12 - 21:47:06] search question = TSMC
+[2024/08/12 - 21:47:08] filter news in past six months' relevant news. (data & !unknown)
+[2024/08/12 - 21:47:08] ask Claude3 to answer based on relavent news start.
