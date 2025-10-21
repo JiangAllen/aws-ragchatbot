@@ -39,12 +39,37 @@ opensearch==2.3.1
 ## Installation
 
 ### 1. Clone the repository
+```bash
 git clone <repository-url>
 cd <your-project>
+```
 
 ### 2. Create a virtual environment (conda or others)
+```bash
 conda create -n rag-system python=3.10
 conda activate rag-system
+```
 
 ### 3. Configure your API keys and run
+```bash
 python model_pipline.py
+```
+
+## API Endpoints
+### POST /api/chat1
+```bash
+{
+    "history": [
+        {
+            "user": "",
+            "bot": ""
+        },
+        {
+            "user": ""
+        }
+    ]
+}
+```
+### Parameters
+#### user: The user's question
+#### bot: The AI's response
