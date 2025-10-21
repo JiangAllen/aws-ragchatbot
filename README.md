@@ -29,7 +29,7 @@ The system is **modularized**, including components for:
 - Create an **OpenSearch index**  
 - Upload data and apply **chunking** as needed  
 
-### ⚠️ Recommended Package Versions
+### Recommended Package Versions
 ```bash
 boto3==1.33.2
 botocore==1.33.2
@@ -73,7 +73,7 @@ python model_pipline.py
 - user: User question
 - bot: AI response
 
-## 📄 License
+## License
 ### This software is provided for research and demonstration purposes only. Do not use this code in production environments.
 
 ## Support
@@ -81,4 +81,5 @@ For issues or questions:
 - Create an issue in the repository
 - Review your configuration settings
 - Contact me at: wwlwyovwkn83999@gmail.com
+
 
