@@ -35,3 +35,16 @@ boto3==1.33.2
 botocore==1.33.2
 opensearch==2.3.1
 ```
+
+## Installation
+
+### 1. Clone the repository
+git clone <repository-url>
+cd <your-project>
+
+### 2. Create a virtual environment (conda or others)
+conda create -n rag-system python=3.10
+conda activate rag-system
+
+### 3. Configure your API keys and run
+python model_pipline.py
